@@ -1,0 +1,11 @@
+﻿  HashTable.cpp
+C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\3sem_prac.2_server\HashTable.cpp(39,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\3sem_prac.2_server\HashTable.cpp(46,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\3sem_prac.2_server\HashTable.cpp(61,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\3sem_prac.2_server\HashTable.cpp(70,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\3sem_prac.2_server\HashTable.cpp(85,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\3sem_prac.2_server\HashTable.cpp(99,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\3sem_prac.2_server\HashTable.cpp(109,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\3sem_prac.2_server\HashTable.cpp(134,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\3sem_prac.2_server\HashTable.cpp(144,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  3sem_prac.2_server.vcxproj -> C:\Users\79529\Desktop\3 семестр\Программирование\Практика №2\Server\3sem_prac.2_server\x64\Debug\3sem_prac.2_server.exe
